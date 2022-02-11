@@ -18,6 +18,6 @@ jobs:
 - deployment: VMDeploy
   displayName: web
   environment:
-    name:  <environment name>
+    name:  CreateVMLab
     resourceType: VirtualMachine
     tags: lab01
